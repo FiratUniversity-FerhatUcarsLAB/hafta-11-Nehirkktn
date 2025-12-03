@@ -1,3 +1,5 @@
+//öğrenci no: 250541039
+//adı-soyadı: Nehir KÖKTEN
 public class Exercise4_2 {
 
   // Her satirin sonuna calisma sirasi yorumlarini ekleyin.
