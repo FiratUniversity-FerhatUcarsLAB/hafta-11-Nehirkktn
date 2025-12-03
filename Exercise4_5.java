@@ -1,3 +1,5 @@
+//öğrenci no: 250541039
+// adı soyadı: Nehir KÖKTEN
 public class Exercise4_5 {
 
     public static void zoop(String fred, int bob) {
@@ -25,3 +27,8 @@ public class Exercise4_5 {
         System.out.println("any " + strangStrung + "more ");
     }
 }
+//PROGRAMIN TAM ÇIKTISI
+//just for
+//any not more 
+//It's breakfast 
+//!
