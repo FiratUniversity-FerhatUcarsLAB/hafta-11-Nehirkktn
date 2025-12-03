@@ -22,3 +22,8 @@ public class Exercise4_3 {
         System.out.println(".");
     }
 }
+
+//programın tam çıktısı
+//No, I wug.
+//You wugga wug.
+//I wug.
