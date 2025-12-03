@@ -1,3 +1,5 @@
+//öğrenci no: 250541039
+//adı-soyadı: Nehir KÖKTEN
 public class Exercise4_3 {
 
     public static void zoop() {
